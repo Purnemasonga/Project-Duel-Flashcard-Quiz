@@ -1,0 +1,885 @@
+[
+  {
+    "id": "1779316799817pwq0f",
+    "players": [
+      "qdenP3l_T_VNR126AAAS"
+    ],
+    "questions": [],
+    "status": "waiting",
+    "roomCode": "MH6189",
+    "subject": "all",
+    "tier": "all",
+    "createdAt": "2026-05-20T22:39:59.817Z"
+  },
+  {
+    "id": "1779316808873wahqx",
+    "players": [
+      "qdenP3l_T_VNR126AAAS",
+      "qdenP3l_T_VNR126AAAS"
+    ],
+    "questions": [
+      {
+        "id": 990005,
+        "subject": "Data Structures",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 5]",
+        "text": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 5]",
+        "options": [
+          "Tight monolithic coupling to minimize file imports",
+          "Deploying recurring loop listeners without execution exits",
+          "Excluding error-handling layers to decrease CPU overhead",
+          "Modular decoupling with strict interface parameters"
+        ],
+        "correctAnswer": "Modular decoupling with strict interface parameters",
+        "answer": "Modular decoupling with strict interface parameters",
+        "explanation": "Decoupled system architectures allow independent scaling, easier verification, and higher module reuse across the platform.",
+        "type": "mcq",
+        "createdBy": "system",
+        "createdAt": "2026-05-20T22:34:05.125Z"
+      },
+      {
+        "id": 990010,
+        "subject": "Data Structures",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 10]",
+        "text": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 10]",
+        "options": [
+          "Deploying recurring loop listeners without execution exits",
+          "Excluding error-handling layers to decrease CPU overhead",
+          "Modular decoupling with strict interface parameters",
+          "Tight monolithic coupling to minimize file imports"
+        ],
+        "correctAnswer": "Modular decoupling with strict interface parameters",
+        "answer": "Modular decoupling with strict interface parameters",
+        "explanation": "Decoupled system architectures allow independent scaling, easier verification, and higher module reuse across the platform.",
+        "type": "mcq",
+        "createdBy": "system",
+        "createdAt": "2026-05-20T22:34:05.211Z"
+      },
+      {
+        "id": 990012,
+        "subject": "Data Structures",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "In professional Data Structures engineering, isolating code into self-contained files is referred to as ____.",
+        "text": "In professional Data Structures engineering, isolating code into self-contained files is referred to as ____.",
+        "options": [],
+        "correctAnswer": "modularization",
+        "answer": "modularization",
+        "explanation": "Modularization decomposes a system into individual components that can be constructed and compiled independently.",
+        "type": "fill-in",
+        "createdBy": "system",
+        "createdAt": "2026-05-20T22:34:05.259Z"
+      },
+      {
+        "id": 990009,
+        "subject": "Data Structures",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "In professional Data Structures engineering, isolating code into self-contained files is referred to as ____.",
+        "text": "In professional Data Structures engineering, isolating code into self-contained files is referred to as ____.",
+        "options": [],
+        "correctAnswer": "modularization",
+        "answer": "modularization",
+        "explanation": "Modularization decomposes a system into individual components that can be constructed and compiled independently.",
+        "type": "fill-in",
+        "createdBy": "system",
+        "createdAt": "2026-05-20T22:34:05.195Z"
+      },
+      {
+        "id": 990003,
+        "subject": "Data Structures",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "In professional Data Structures engineering, isolating code into self-contained files is referred to as ____.",
+        "text": "In professional Data Structures engineering, isolating code into self-contained files is referred to as ____.",
+        "options": [],
+        "correctAnswer": "modularization",
+        "answer": "modularization",
+        "explanation": "Modularization decomposes a system into individual components that can be constructed and compiled independently.",
+        "type": "fill-in",
+        "createdBy": "system",
+        "createdAt": "2026-05-20T22:34:05.108Z"
+      },
+      {
+        "id": 990011,
+        "subject": "Data Structures",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 11]",
+        "text": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 11]",
+        "options": [
+          "Deploying recurring loop listeners without execution exits",
+          "Excluding error-handling layers to decrease CPU overhead",
+          "Modular decoupling with strict interface parameters",
+          "Tight monolithic coupling to minimize file imports"
+        ],
+        "correctAnswer": "Modular decoupling with strict interface parameters",
+        "answer": "Modular decoupling with strict interface parameters",
+        "explanation": "Decoupled system architectures allow independent scaling, easier verification, and higher module reuse across the platform.",
+        "type": "mcq",
+        "createdBy": "system",
+        "createdAt": "2026-05-20T22:34:05.233Z"
+      },
+      {
+        "id": 990006,
+        "subject": "Data Structures",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "In professional Data Structures engineering, isolating code into self-contained files is referred to as ____.",
+        "text": "In professional Data Structures engineering, isolating code into self-contained files is referred to as ____.",
+        "options": [],
+        "correctAnswer": "modularization",
+        "answer": "modularization",
+        "explanation": "Modularization decomposes a system into individual components that can be constructed and compiled independently.",
+        "type": "fill-in",
+        "createdBy": "system",
+        "createdAt": "2026-05-20T22:34:05.135Z"
+      },
+      {
+        "id": 990002,
+        "subject": "Data Structures",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 2]",
+        "text": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 2]",
+        "options": [
+          "Modular decoupling with strict interface parameters",
+          "Tight monolithic coupling to minimize file imports",
+          "Excluding error-handling layers to decrease CPU overhead",
+          "Deploying recurring loop listeners without execution exits"
+        ],
+        "correctAnswer": "Modular decoupling with strict interface parameters",
+        "answer": "Modular decoupling with strict interface parameters",
+        "explanation": "Decoupled system architectures allow independent scaling, easier verification, and higher module reuse across the platform.",
+        "type": "mcq",
+        "createdBy": "system",
+        "createdAt": "2026-05-20T22:34:05.098Z"
+      },
+      {
+        "id": 990004,
+        "subject": "Data Structures",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 4]",
+        "text": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 4]",
+        "options": [
+          "Tight monolithic coupling to minimize file imports",
+          "Excluding error-handling layers to decrease CPU overhead",
+          "Modular decoupling with strict interface parameters",
+          "Deploying recurring loop listeners without execution exits"
+        ],
+        "correctAnswer": "Modular decoupling with strict interface parameters",
+        "answer": "Modular decoupling with strict interface parameters",
+        "explanation": "Decoupled system architectures allow independent scaling, easier verification, and higher module reuse across the platform.",
+        "type": "mcq",
+        "createdBy": "system",
+        "createdAt": "2026-05-20T22:34:05.116Z"
+      },
+      {
+        "id": 990007,
+        "subject": "Data Structures",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 7]",
+        "text": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 7]",
+        "options": [
+          "Excluding error-handling layers to decrease CPU overhead",
+          "Modular decoupling with strict interface parameters",
+          "Tight monolithic coupling to minimize file imports",
+          "Deploying recurring loop listeners without execution exits"
+        ],
+        "correctAnswer": "Modular decoupling with strict interface parameters",
+        "answer": "Modular decoupling with strict interface parameters",
+        "explanation": "Decoupled system architectures allow independent scaling, easier verification, and higher module reuse across the platform.",
+        "type": "mcq",
+        "createdBy": "system",
+        "createdAt": "2026-05-20T22:34:05.154Z"
+      }
+    ],
+    "status": "active",
+    "roomCode": "1FE7RE",
+    "subject": "all",
+    "tier": "all",
+    "createdAt": "2026-05-20T22:40:08.873Z"
+  },
+  {
+    "id": "1779496549604wvvma",
+    "players": [
+      "OINbL47CFzOfFq7qAAAI"
+    ],
+    "questions": [],
+    "status": "waiting",
+    "roomCode": "JIA3U4",
+    "subject": "Data Structures",
+    "tier": "all",
+    "createdAt": "2026-05-23T00:35:49.605Z"
+  },
+  {
+    "id": "17794965513038x48w",
+    "players": [
+      "OINbL47CFzOfFq7qAAAI"
+    ],
+    "questions": [],
+    "status": "waiting",
+    "roomCode": "9G82QO",
+    "subject": "Cyber Security",
+    "tier": "all",
+    "createdAt": "2026-05-23T00:35:51.303Z"
+  },
+  {
+    "id": "1779496551839layrh",
+    "players": [
+      "OINbL47CFzOfFq7qAAAI"
+    ],
+    "questions": [],
+    "status": "waiting",
+    "roomCode": "BCQC38",
+    "subject": "Data Structures",
+    "tier": "all",
+    "createdAt": "2026-05-23T00:35:51.839Z"
+  },
+  {
+    "id": "1779496554511hiof8",
+    "players": [
+      "OINbL47CFzOfFq7qAAAI"
+    ],
+    "questions": [],
+    "status": "waiting",
+    "roomCode": "4MTF0S",
+    "subject": "all",
+    "tier": "all",
+    "createdAt": "2026-05-23T00:35:54.511Z"
+  },
+  {
+    "id": "17794965685363448w",
+    "players": [
+      "an9wqZk0AOIX3iRCAAAL"
+    ],
+    "questions": [],
+    "status": "waiting",
+    "roomCode": "ADY8MQ",
+    "subject": "Data Structures",
+    "tier": "all",
+    "createdAt": "2026-05-23T00:36:08.536Z"
+  },
+  {
+    "id": "1779496573466h74xr",
+    "players": [
+      "an9wqZk0AOIX3iRCAAAL",
+      "an9wqZk0AOIX3iRCAAAL"
+    ],
+    "questions": [
+      {
+        "id": 990003,
+        "subject": "Data Structures",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "In professional Data Structures engineering, isolating code into self-contained files is referred to as ____.",
+        "text": "In professional Data Structures engineering, isolating code into self-contained files is referred to as ____.",
+        "options": [],
+        "correctAnswer": "modularization",
+        "answer": "modularization",
+        "explanation": "Modularization decomposes a system into individual components that can be constructed and compiled independently.",
+        "type": "fill-in",
+        "createdBy": "system",
+        "createdAt": "2026-05-20T22:34:05.108Z"
+      },
+      {
+        "id": 990003,
+        "subject": "Cyber Security",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "In professional Cyber Security engineering, isolating code into self-contained files is referred to as ____.",
+        "text": "In professional Cyber Security engineering, isolating code into self-contained files is referred to as ____.",
+        "options": [],
+        "correctAnswer": "modularization",
+        "answer": "modularization",
+        "explanation": "Modularization decomposes a system into individual components that can be constructed and compiled independently.",
+        "type": "fill-in",
+        "createdBy": "system",
+        "createdAt": "2026-05-21T01:05:40.596Z"
+      },
+      {
+        "id": 990004,
+        "subject": "Data Structures",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 4]",
+        "text": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 4]",
+        "options": [
+          "Tight monolithic coupling to minimize file imports",
+          "Deploying recurring loop listeners without execution exits",
+          "Modular decoupling with strict interface parameters",
+          "Excluding error-handling layers to decrease CPU overhead"
+        ],
+        "correctAnswer": "Modular decoupling with strict interface parameters",
+        "answer": "Modular decoupling with strict interface parameters",
+        "explanation": "Decoupled system architectures allow independent scaling, easier verification, and higher module reuse across the platform.",
+        "type": "mcq",
+        "createdBy": "system",
+        "createdAt": "2026-05-20T22:34:05.116Z"
+      },
+      {
+        "id": 990010,
+        "subject": "Data Structures",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 10]",
+        "text": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 10]",
+        "options": [
+          "Tight monolithic coupling to minimize file imports",
+          "Deploying recurring loop listeners without execution exits",
+          "Modular decoupling with strict interface parameters",
+          "Excluding error-handling layers to decrease CPU overhead"
+        ],
+        "correctAnswer": "Modular decoupling with strict interface parameters",
+        "answer": "Modular decoupling with strict interface parameters",
+        "explanation": "Decoupled system architectures allow independent scaling, easier verification, and higher module reuse across the platform.",
+        "type": "mcq",
+        "createdBy": "system",
+        "createdAt": "2026-05-20T22:34:05.211Z"
+      },
+      {
+        "id": 990004,
+        "subject": "Cyber Security",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "When analyzing standard implementation behaviors in Cyber Security (all module), what represents the most efficient strategy? [Scenario 4]",
+        "text": "When analyzing standard implementation behaviors in Cyber Security (all module), what represents the most efficient strategy? [Scenario 4]",
+        "options": [
+          "Modular decoupling with strict interface parameters",
+          "Excluding error-handling layers to decrease CPU overhead",
+          "Deploying recurring loop listeners without execution exits",
+          "Tight monolithic coupling to minimize file imports"
+        ],
+        "correctAnswer": "Modular decoupling with strict interface parameters",
+        "answer": "Modular decoupling with strict interface parameters",
+        "explanation": "Decoupled system architectures allow independent scaling, easier verification, and higher module reuse across the platform.",
+        "type": "mcq",
+        "createdBy": "system",
+        "createdAt": "2026-05-21T01:05:40.617Z"
+      },
+      {
+        "id": 990009,
+        "subject": "Cyber Security",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "In professional Cyber Security engineering, isolating code into self-contained files is referred to as ____.",
+        "text": "In professional Cyber Security engineering, isolating code into self-contained files is referred to as ____.",
+        "options": [],
+        "correctAnswer": "modularization",
+        "answer": "modularization",
+        "explanation": "Modularization decomposes a system into individual components that can be constructed and compiled independently.",
+        "type": "fill-in",
+        "createdBy": "system",
+        "createdAt": "2026-05-21T01:05:40.719Z"
+      },
+      {
+        "id": 990005,
+        "subject": "Cyber Security",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "When analyzing standard implementation behaviors in Cyber Security (all module), what represents the most efficient strategy? [Scenario 5]",
+        "text": "When analyzing standard implementation behaviors in Cyber Security (all module), what represents the most efficient strategy? [Scenario 5]",
+        "options": [
+          "Tight monolithic coupling to minimize file imports",
+          "Deploying recurring loop listeners without execution exits",
+          "Excluding error-handling layers to decrease CPU overhead",
+          "Modular decoupling with strict interface parameters"
+        ],
+        "correctAnswer": "Modular decoupling with strict interface parameters",
+        "answer": "Modular decoupling with strict interface parameters",
+        "explanation": "Decoupled system architectures allow independent scaling, easier verification, and higher module reuse across the platform.",
+        "type": "mcq",
+        "createdBy": "system",
+        "createdAt": "2026-05-21T01:05:40.634Z"
+      },
+      {
+        "id": 990011,
+        "subject": "Cyber Security",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "When analyzing standard implementation behaviors in Cyber Security (all module), what represents the most efficient strategy? [Scenario 11]",
+        "text": "When analyzing standard implementation behaviors in Cyber Security (all module), what represents the most efficient strategy? [Scenario 11]",
+        "options": [
+          "Excluding error-handling layers to decrease CPU overhead",
+          "Modular decoupling with strict interface parameters",
+          "Tight monolithic coupling to minimize file imports",
+          "Deploying recurring loop listeners without execution exits"
+        ],
+        "correctAnswer": "Modular decoupling with strict interface parameters",
+        "answer": "Modular decoupling with strict interface parameters",
+        "explanation": "Decoupled system architectures allow independent scaling, easier verification, and higher module reuse across the platform.",
+        "type": "mcq",
+        "createdBy": "system",
+        "createdAt": "2026-05-21T01:05:40.777Z"
+      },
+      {
+        "id": 990005,
+        "subject": "Data Structures",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 5]",
+        "text": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 5]",
+        "options": [
+          "Excluding error-handling layers to decrease CPU overhead",
+          "Modular decoupling with strict interface parameters",
+          "Deploying recurring loop listeners without execution exits",
+          "Tight monolithic coupling to minimize file imports"
+        ],
+        "correctAnswer": "Modular decoupling with strict interface parameters",
+        "answer": "Modular decoupling with strict interface parameters",
+        "explanation": "Decoupled system architectures allow independent scaling, easier verification, and higher module reuse across the platform.",
+        "type": "mcq",
+        "createdBy": "system",
+        "createdAt": "2026-05-20T22:34:05.125Z"
+      },
+      {
+        "id": 990007,
+        "subject": "Data Structures",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 7]",
+        "text": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 7]",
+        "options": [
+          "Modular decoupling with strict interface parameters",
+          "Tight monolithic coupling to minimize file imports",
+          "Excluding error-handling layers to decrease CPU overhead",
+          "Deploying recurring loop listeners without execution exits"
+        ],
+        "correctAnswer": "Modular decoupling with strict interface parameters",
+        "answer": "Modular decoupling with strict interface parameters",
+        "explanation": "Decoupled system architectures allow independent scaling, easier verification, and higher module reuse across the platform.",
+        "type": "mcq",
+        "createdBy": "system",
+        "createdAt": "2026-05-20T22:34:05.154Z"
+      }
+    ],
+    "status": "active",
+    "roomCode": "Q22V74",
+    "subject": "all",
+    "tier": "all",
+    "createdAt": "2026-05-23T00:36:13.466Z"
+  },
+  {
+    "id": "1779528653111xl57g",
+    "players": [
+      "XPkrqRd4eOrZTQarAAAB",
+      "XPkrqRd4eOrZTQarAAAB"
+    ],
+    "questions": [
+      {
+        "id": 990006,
+        "subject": "Data Structures",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "In professional Data Structures engineering, isolating code into self-contained files is referred to as ____.",
+        "text": "In professional Data Structures engineering, isolating code into self-contained files is referred to as ____.",
+        "options": [],
+        "correctAnswer": "modularization",
+        "answer": "modularization",
+        "explanation": "Modularization decomposes a system into individual components that can be constructed and compiled independently.",
+        "type": "fill-in",
+        "createdBy": "system",
+        "createdAt": "2026-05-20T22:34:05.135Z"
+      },
+      {
+        "id": 990012,
+        "subject": "Cyber Security",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "In professional Cyber Security engineering, isolating code into self-contained files is referred to as ____.",
+        "text": "In professional Cyber Security engineering, isolating code into self-contained files is referred to as ____.",
+        "options": [],
+        "correctAnswer": "modularization",
+        "answer": "modularization",
+        "explanation": "Modularization decomposes a system into individual components that can be constructed and compiled independently.",
+        "type": "fill-in",
+        "createdBy": "system",
+        "createdAt": "2026-05-21T01:05:40.806Z"
+      },
+      {
+        "id": 990007,
+        "subject": "Data Structures",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 7]",
+        "text": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 7]",
+        "options": [
+          "Excluding error-handling layers to decrease CPU overhead",
+          "Modular decoupling with strict interface parameters",
+          "Deploying recurring loop listeners without execution exits",
+          "Tight monolithic coupling to minimize file imports"
+        ],
+        "correctAnswer": "Modular decoupling with strict interface parameters",
+        "answer": "Modular decoupling with strict interface parameters",
+        "explanation": "Decoupled system architectures allow independent scaling, easier verification, and higher module reuse across the platform.",
+        "type": "mcq",
+        "createdBy": "system",
+        "createdAt": "2026-05-20T22:34:05.154Z"
+      },
+      {
+        "id": 990001,
+        "subject": "Data Structures",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 1]",
+        "text": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 1]",
+        "options": [
+          "Excluding error-handling layers to decrease CPU overhead",
+          "Deploying recurring loop listeners without execution exits",
+          "Modular decoupling with strict interface parameters",
+          "Tight monolithic coupling to minimize file imports"
+        ],
+        "correctAnswer": "Modular decoupling with strict interface parameters",
+        "answer": "Modular decoupling with strict interface parameters",
+        "explanation": "Decoupled system architectures allow independent scaling, easier verification, and higher module reuse across the platform.",
+        "type": "mcq",
+        "createdBy": "system",
+        "createdAt": "2026-05-20T22:34:05.082Z"
+      },
+      {
+        "id": 990003,
+        "subject": "Cyber Security",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "In professional Cyber Security engineering, isolating code into self-contained files is referred to as ____.",
+        "text": "In professional Cyber Security engineering, isolating code into self-contained files is referred to as ____.",
+        "options": [],
+        "correctAnswer": "modularization",
+        "answer": "modularization",
+        "explanation": "Modularization decomposes a system into individual components that can be constructed and compiled independently.",
+        "type": "fill-in",
+        "createdBy": "system",
+        "createdAt": "2026-05-21T01:05:40.596Z"
+      },
+      {
+        "id": 990006,
+        "subject": "Cyber Security",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "In professional Cyber Security engineering, isolating code into self-contained files is referred to as ____.",
+        "text": "In professional Cyber Security engineering, isolating code into self-contained files is referred to as ____.",
+        "options": [],
+        "correctAnswer": "modularization",
+        "answer": "modularization",
+        "explanation": "Modularization decomposes a system into individual components that can be constructed and compiled independently.",
+        "type": "fill-in",
+        "createdBy": "system",
+        "createdAt": "2026-05-21T01:05:40.651Z"
+      },
+      {
+        "id": 990012,
+        "subject": "Data Structures",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "In professional Data Structures engineering, isolating code into self-contained files is referred to as ____.",
+        "text": "In professional Data Structures engineering, isolating code into self-contained files is referred to as ____.",
+        "options": [],
+        "correctAnswer": "modularization",
+        "answer": "modularization",
+        "explanation": "Modularization decomposes a system into individual components that can be constructed and compiled independently.",
+        "type": "fill-in",
+        "createdBy": "system",
+        "createdAt": "2026-05-20T22:34:05.259Z"
+      },
+      {
+        "id": 990002,
+        "subject": "Data Structures",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 2]",
+        "text": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 2]",
+        "options": [
+          "Tight monolithic coupling to minimize file imports",
+          "Deploying recurring loop listeners without execution exits",
+          "Modular decoupling with strict interface parameters",
+          "Excluding error-handling layers to decrease CPU overhead"
+        ],
+        "correctAnswer": "Modular decoupling with strict interface parameters",
+        "answer": "Modular decoupling with strict interface parameters",
+        "explanation": "Decoupled system architectures allow independent scaling, easier verification, and higher module reuse across the platform.",
+        "type": "mcq",
+        "createdBy": "system",
+        "createdAt": "2026-05-20T22:34:05.098Z"
+      },
+      {
+        "id": 990005,
+        "subject": "Cyber Security",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "When analyzing standard implementation behaviors in Cyber Security (all module), what represents the most efficient strategy? [Scenario 5]",
+        "text": "When analyzing standard implementation behaviors in Cyber Security (all module), what represents the most efficient strategy? [Scenario 5]",
+        "options": [
+          "Tight monolithic coupling to minimize file imports",
+          "Excluding error-handling layers to decrease CPU overhead",
+          "Deploying recurring loop listeners without execution exits",
+          "Modular decoupling with strict interface parameters"
+        ],
+        "correctAnswer": "Modular decoupling with strict interface parameters",
+        "answer": "Modular decoupling with strict interface parameters",
+        "explanation": "Decoupled system architectures allow independent scaling, easier verification, and higher module reuse across the platform.",
+        "type": "mcq",
+        "createdBy": "system",
+        "createdAt": "2026-05-21T01:05:40.634Z"
+      },
+      {
+        "id": 990003,
+        "subject": "Data Structures",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "In professional Data Structures engineering, isolating code into self-contained files is referred to as ____.",
+        "text": "In professional Data Structures engineering, isolating code into self-contained files is referred to as ____.",
+        "options": [],
+        "correctAnswer": "modularization",
+        "answer": "modularization",
+        "explanation": "Modularization decomposes a system into individual components that can be constructed and compiled independently.",
+        "type": "fill-in",
+        "createdBy": "system",
+        "createdAt": "2026-05-20T22:34:05.108Z"
+      }
+    ],
+    "status": "active",
+    "roomCode": "BDIU38",
+    "subject": "all",
+    "tier": "all",
+    "createdAt": "2026-05-23T09:30:53.111Z"
+  },
+  {
+    "id": "1779529436844rh248",
+    "players": [
+      "gDd0vjRNyLZ0FxEHAAAK",
+      "gDd0vjRNyLZ0FxEHAAAK"
+    ],
+    "questions": [
+      {
+        "id": 990001,
+        "subject": "Data Structures",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 1]",
+        "text": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 1]",
+        "options": [
+          "Modular decoupling with strict interface parameters",
+          "Excluding error-handling layers to decrease CPU overhead",
+          "Deploying recurring loop listeners without execution exits",
+          "Tight monolithic coupling to minimize file imports"
+        ],
+        "correctAnswer": "Modular decoupling with strict interface parameters",
+        "answer": "Modular decoupling with strict interface parameters",
+        "explanation": "Decoupled system architectures allow independent scaling, easier verification, and higher module reuse across the platform.",
+        "type": "mcq",
+        "createdBy": "system",
+        "createdAt": "2026-05-20T22:34:05.082Z"
+      },
+      {
+        "id": 990004,
+        "subject": "Cyber Security",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "When analyzing standard implementation behaviors in Cyber Security (all module), what represents the most efficient strategy? [Scenario 4]",
+        "text": "When analyzing standard implementation behaviors in Cyber Security (all module), what represents the most efficient strategy? [Scenario 4]",
+        "options": [
+          "Tight monolithic coupling to minimize file imports",
+          "Modular decoupling with strict interface parameters",
+          "Deploying recurring loop listeners without execution exits",
+          "Excluding error-handling layers to decrease CPU overhead"
+        ],
+        "correctAnswer": "Modular decoupling with strict interface parameters",
+        "answer": "Modular decoupling with strict interface parameters",
+        "explanation": "Decoupled system architectures allow independent scaling, easier verification, and higher module reuse across the platform.",
+        "type": "mcq",
+        "createdBy": "system",
+        "createdAt": "2026-05-21T01:05:40.617Z"
+      },
+      {
+        "id": 990008,
+        "subject": "Cyber Security",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "When analyzing standard implementation behaviors in Cyber Security (all module), what represents the most efficient strategy? [Scenario 8]",
+        "text": "When analyzing standard implementation behaviors in Cyber Security (all module), what represents the most efficient strategy? [Scenario 8]",
+        "options": [
+          "Tight monolithic coupling to minimize file imports",
+          "Modular decoupling with strict interface parameters",
+          "Deploying recurring loop listeners without execution exits",
+          "Excluding error-handling layers to decrease CPU overhead"
+        ],
+        "correctAnswer": "Modular decoupling with strict interface parameters",
+        "answer": "Modular decoupling with strict interface parameters",
+        "explanation": "Decoupled system architectures allow independent scaling, easier verification, and higher module reuse across the platform.",
+        "type": "mcq",
+        "createdBy": "system",
+        "createdAt": "2026-05-21T01:05:40.694Z"
+      },
+      {
+        "id": 990011,
+        "subject": "Cyber Security",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "When analyzing standard implementation behaviors in Cyber Security (all module), what represents the most efficient strategy? [Scenario 11]",
+        "text": "When analyzing standard implementation behaviors in Cyber Security (all module), what represents the most efficient strategy? [Scenario 11]",
+        "options": [
+          "Deploying recurring loop listeners without execution exits",
+          "Tight monolithic coupling to minimize file imports",
+          "Modular decoupling with strict interface parameters",
+          "Excluding error-handling layers to decrease CPU overhead"
+        ],
+        "correctAnswer": "Modular decoupling with strict interface parameters",
+        "answer": "Modular decoupling with strict interface parameters",
+        "explanation": "Decoupled system architectures allow independent scaling, easier verification, and higher module reuse across the platform.",
+        "type": "mcq",
+        "createdBy": "system",
+        "createdAt": "2026-05-21T01:05:40.777Z"
+      },
+      {
+        "id": 990012,
+        "subject": "Cyber Security",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "In professional Cyber Security engineering, isolating code into self-contained files is referred to as ____.",
+        "text": "In professional Cyber Security engineering, isolating code into self-contained files is referred to as ____.",
+        "options": [],
+        "correctAnswer": "modularization",
+        "answer": "modularization",
+        "explanation": "Modularization decomposes a system into individual components that can be constructed and compiled independently.",
+        "type": "fill-in",
+        "createdBy": "system",
+        "createdAt": "2026-05-21T01:05:40.806Z"
+      },
+      {
+        "id": 990012,
+        "subject": "Data Structures",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "In professional Data Structures engineering, isolating code into self-contained files is referred to as ____.",
+        "text": "In professional Data Structures engineering, isolating code into self-contained files is referred to as ____.",
+        "options": [],
+        "correctAnswer": "modularization",
+        "answer": "modularization",
+        "explanation": "Modularization decomposes a system into individual components that can be constructed and compiled independently.",
+        "type": "fill-in",
+        "createdBy": "system",
+        "createdAt": "2026-05-20T22:34:05.259Z"
+      },
+      {
+        "id": 990005,
+        "subject": "Data Structures",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 5]",
+        "text": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 5]",
+        "options": [
+          "Excluding error-handling layers to decrease CPU overhead",
+          "Deploying recurring loop listeners without execution exits",
+          "Modular decoupling with strict interface parameters",
+          "Tight monolithic coupling to minimize file imports"
+        ],
+        "correctAnswer": "Modular decoupling with strict interface parameters",
+        "answer": "Modular decoupling with strict interface parameters",
+        "explanation": "Decoupled system architectures allow independent scaling, easier verification, and higher module reuse across the platform.",
+        "type": "mcq",
+        "createdBy": "system",
+        "createdAt": "2026-05-20T22:34:05.125Z"
+      },
+      {
+        "id": 990007,
+        "subject": "Data Structures",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 7]",
+        "text": "When analyzing standard implementation behaviors in Data Structures (all module), what represents the most efficient strategy? [Scenario 7]",
+        "options": [
+          "Deploying recurring loop listeners without execution exits",
+          "Modular decoupling with strict interface parameters",
+          "Tight monolithic coupling to minimize file imports",
+          "Excluding error-handling layers to decrease CPU overhead"
+        ],
+        "correctAnswer": "Modular decoupling with strict interface parameters",
+        "answer": "Modular decoupling with strict interface parameters",
+        "explanation": "Decoupled system architectures allow independent scaling, easier verification, and higher module reuse across the platform.",
+        "type": "mcq",
+        "createdBy": "system",
+        "createdAt": "2026-05-20T22:34:05.154Z"
+      },
+      {
+        "id": 990003,
+        "subject": "Cyber Security",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "In professional Cyber Security engineering, isolating code into self-contained files is referred to as ____.",
+        "text": "In professional Cyber Security engineering, isolating code into self-contained files is referred to as ____.",
+        "options": [],
+        "correctAnswer": "modularization",
+        "answer": "modularization",
+        "explanation": "Modularization decomposes a system into individual components that can be constructed and compiled independently.",
+        "type": "fill-in",
+        "createdBy": "system",
+        "createdAt": "2026-05-21T01:05:40.596Z"
+      },
+      {
+        "id": 990006,
+        "subject": "Data Structures",
+        "topic": "all",
+        "difficulty": "all",
+        "tier": "all",
+        "question": "In professional Data Structures engineering, isolating code into self-contained files is referred to as ____.",
+        "text": "In professional Data Structures engineering, isolating code into self-contained files is referred to as ____.",
+        "options": [],
+        "correctAnswer": "modularization",
+        "answer": "modularization",
+        "explanation": "Modularization decomposes a system into individual components that can be constructed and compiled independently.",
+        "type": "fill-in",
+        "createdBy": "system",
+        "createdAt": "2026-05-20T22:34:05.135Z"
+      }
+    ],
+    "status": "active",
+    "roomCode": "ZWS2UY",
+    "subject": "all",
+    "tier": "all",
+    "createdAt": "2026-05-23T09:43:56.844Z"
+  }
+]

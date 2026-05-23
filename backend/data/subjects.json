@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1779316444804dic7l",
+    "subtopics": [
+      {
+        "id": "1779316445093o0we0",
+        "name": "all"
+      },
+      {
+        "id": "1779316524766m7d1x",
+        "name": "Arraya & Strings"
+      },
+      {
+        "id": "1779316543189d9ktv",
+        "name": "Hash Maps"
+      },
+      {
+        "id": "17793165702916cjqm",
+        "name": "Trees & Graphs"
+      }
+    ],
+    "name": "Data Structures",
+    "topics": [],
+    "createdAt": "2026-05-20T22:34:04.804Z"
+  },
+  {
+    "id": "1779325538210k2g3s",
+    "subtopics": [
+      {
+        "id": "17793255405625cd5r",
+        "name": "all"
+      },
+      {
+        "id": "1779325555882bidmz",
+        "name": "Ethical Hacking"
+      }
+    ],
+    "name": "Cyber Security",
+    "topics": [],
+    "createdAt": "2026-05-21T01:05:38.210Z"
+  }
+]

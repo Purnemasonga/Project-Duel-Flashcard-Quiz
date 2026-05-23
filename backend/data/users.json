@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1779316348368",
+    "xp": 0,
+    "streak": 0,
+    "wins": 0,
+    "matchesPlayed": 0,
+    "username": "paper boat",
+    "email": "magicmushroom@gmail.com",
+    "password": "honeybee",
+    "role": "student",
+    "createdAt": "2026-05-20T22:32:28.368Z"
+  },
+  {
+    "id": "1779316654558",
+    "xp": 20,
+    "streak": 0,
+    "wins": 0,
+    "matchesPlayed": 2,
+    "username": "paper boat ",
+    "email": "register@gmail.com",
+    "password": "honeybee",
+    "role": "student",
+    "createdAt": "2026-05-20T22:37:34.558Z",
+    "playedSubjects": [
+      "Data Structures",
+      "MULTIPLAYER DUEL"
+    ]
+  },
+  {
+    "id": "1779325415721",
+    "xp": 0,
+    "streak": 0,
+    "wins": 0,
+    "matchesPlayed": 0,
+    "username": "Jask Sparrow",
+    "email": "jack@gmail.com",
+    "password": "jacksparrow",
+    "role": "student",
+    "createdAt": "2026-05-21T01:03:35.721Z"
+  },
+  {
+    "id": "1779326212142",
+    "xp": 0,
+    "streak": 0,
+    "wins": 0,
+    "matchesPlayed": 0,
+    "username": "byte hunter",
+    "email": "byte@gmail.com",
+    "password": "hunter",
+    "role": "student",
+    "createdAt": "2026-05-21T01:16:52.142Z"
+  },
+  {
+    "id": "1779327376549",
+    "xp": 0,
+    "streak": 0,
+    "wins": 0,
+    "matchesPlayed": 0,
+    "username": "Maleficent",
+    "email": "maleficient@gmail.com",
+    "password": "Maleficent",
+    "role": "student",
+    "createdAt": "2026-05-21T01:36:16.550Z"
+  },
+  {
+    "id": "1779496010635",
+    "xp": 0,
+    "streak": 0,
+    "wins": 0,
+    "matchesPlayed": 0,
+    "username": "Magic mushroom",
+    "email": "magic@gmail.com",
+    "password": "Magic mushroom",
+    "role": "student",
+    "createdAt": "2026-05-23T00:26:50.635Z"
+  },
+  {
+    "id": "1779529345470",
+    "xp": 0,
+    "streak": 0,
+    "wins": 0,
+    "matchesPlayed": 0,
+    "username": "Wanda",
+    "email": "wanda@gmail.com",
+    "password": "Wanda",
+    "role": "student",
+    "createdAt": "2026-05-23T09:42:25.470Z"
+  }
+]
